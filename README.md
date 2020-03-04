@@ -7,4 +7,8 @@ Following the ACG course: Creating a Serverless Portfolio with AWS and ReactJS.
 
 Brew,
 Git and GitHub,
-SSH
+SSH,
+HTML,
+CSS,
+Font Awesome,
+Google Fonts
