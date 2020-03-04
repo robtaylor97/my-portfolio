@@ -5,5 +5,6 @@ Following the ACG course: Creating a Serverless Portfolio with AWS and ReactJS.
 
 # Technologies Used
 
-Git and GitHub
+Brew,
+Git and GitHub,
 SSH
