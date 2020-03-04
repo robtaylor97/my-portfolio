@@ -1,2 +1,4 @@
-# my-portfolio
-Serverless Repository for AWS Serverless course
+# Rob Taylor's portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
+Following the ACG course: Creating a Serverless Portfolio with AWS and ReactJS.
