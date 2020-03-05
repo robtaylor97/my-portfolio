@@ -2,6 +2,7 @@
 
 This is my professional portfolio. It uses AWS and ReactJS.
 Following the ACG course: Creating a Serverless Portfolio with AWS and ReactJS.
+Working from MacOS and Win7 desktops.
 
 # Technologies Used
 
