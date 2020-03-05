@@ -8,7 +8,7 @@ Working from MacOS and Windows10 desktops.
 
 Brew,
 Git and GitHub,
-SSH,
+OpenSSH,
 HTML,
 CSS,
 Font Awesome,
